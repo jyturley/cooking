@@ -12,5 +12,5 @@ Serves: 2 people
         Rustic Bread (Stale is better)
 1       Baguette that is wide and flat enough to fit your container
 1clove  Garlic
-1lb     Lots of Gruyere Cheese
+1/2lb   Gruyere Cheese to grate
 ```
