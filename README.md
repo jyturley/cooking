@@ -1,3 +1,5 @@
 # cooking
-[Main](main)
+##[Main Dishes](main)
+- [French Onion Soup](main#french-onion-soup)
+##[Drinks](drinks)
 
