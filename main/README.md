@@ -4,7 +4,7 @@
 ```
 Serves: 2 people
 3tbsp   Unsalted Butter
-1.5lbs  Onions of mixed color. 1:3
+1.5lbs  Onions of mixed color.
 1/2     Bay Leaf
 1/4cup  Dry Sherry
 1qt     Chicken or Beef Stock
