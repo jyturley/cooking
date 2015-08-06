@@ -15,14 +15,14 @@ Serves: 2 people
 1/2lb   Gruyere Cheese to grate
 ```
 
-- The types of onions you use are very important in how this soup turns out. The foodlab points out the following:
+- The types of onions you use are very important in how this soup turns out. [Serious Eats](http://www.byrontalbott.com/?s=french+onion+soup) points out the following:
 > *Sweet Onion:* mellow and sweet, with a brightness right at the end.
 > *Red Onion:* deeper flavero rwith a slightly bitter edge and less sweetness.
 > *Yellow Onion:* lots of bright flavor, very mild bitterness, and sweetness backing it up.
 > *Shallot:* really good balance of sweetness with both bright flavors and deep, rich ones, and just a hint of bitterness.
 
 - I've found that the bitterness that comes from the red onions is very similar to the bitterness that comes from any onion when you over cook it. Red onions turn grey instead of golden brown when carmelized, which makes it difficult to time your cooking.
-- So far my best ratio: 1:1:3 for Yellow:White:Shallots
+- So far my best ratio: *1:1:3 for Yellow:White:Shallots*.
 
 ### Instructions
 
