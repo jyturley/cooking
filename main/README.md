@@ -21,10 +21,24 @@ Serves: 2 people
 > **Yellow Onion:** lots of bright flavor, very mild bitterness, and sweetness backing it up.
 > **Shallot:** really good balance of sweetness with both bright flavors and deep, rich ones, and just a hint of bitterness.
 
-- I've found that the bitterness that comes from the red onions is very similar to the bitterness that comes from any onion when you over cook it. Red onions turn grey instead of golden brown when carmelized, which makes it difficult to time your cooking.
-- So far my best ratio: **1:1:3 for Yellow:White:Shallots**.
+- I've found that the bitterness that comes from the red onions is very similar to the bitterness that comes from any overcooked onion. Red onions turn grey instead of golden brown when carmelized, which makes it difficult to time your cooking.
+- So far my best ratio is **1:1:3 for Yellow:White:Shallots**.
 
 ### Instructions
+1. Thinly slice the onions. (Rainbow slices).
+2. Get a pot that would fit all of your onions. Add your butter and onions and start cooking with medium heat.
+  * It will look like you have too much sliced onions. Don't worry, it will reduce over time.
+3. Cook onions until soft. Then reduce heat to medium-low and simmer semi-frequently for the next 2 hours.
+  * If the onions start burning at the bottom of the pot, add a little bit of water. (You will have to do this multiple times)
+4. Add sherry. Cook until you don't smell alcohol, then add stock, the bay leaf, thyme. Raise heat to bring to simmer. Then lower heat to maintain simmer for 20min.
+5. Get your bread ready. If you're using non stale bread, get the oven on, and bake both breads (rustic and baguette) until lightly toasted. Break them into small pieces and leave them into the serving bowls you will use.
+6. Get the baguette and cut it so that it fits perfectly with the opening of your container.
+7. Rub the garlic onto the newly cut large piece of bread, and if you want add some butter.
+8. Preheat broiler.
+9. Add the soup to the serving bowls that have pieces of rustic bread in them. Then place the perfect fitting baguette bread on top.
+10. Grate the guyere cheese over the bowl+baguette. Liberally.
+11. Broil until cheese is melted and browned in spots.
+12. Let it cool 5-10min before serving.
 
 ### Resources
 - [Serious Eats](http://www.seriouseats.com/2015/01/how-to-make-the-best-french-onion-soup-caramelization.html)
