@@ -22,7 +22,8 @@ Serves: 2 people
 > **Shallot:** really good balance of sweetness with both bright flavors and deep, rich ones, and just a hint of bitterness.
 
 - I've found that the bitterness that comes from the red onions is very similar to the bitterness that comes from any overcooked onion. Red onions turn grey instead of golden brown when carmelized, which makes it difficult to time your cooking.
-- So far my best ratio is **1:1:3 for Yellow:White:Shallots**.
+- So far my best ratio is **1:1:5 for Yellow:White:Shallots**.
+- I've found that using homemade beef stock gives a more impactful flavor than using homemade chicken stock. If using homemade chicken stock, you might have to add extra salt to counter the sweetness of the onions.
 
 ### Instructions
 1. Thinly slice the onions. (Rainbow slices).
