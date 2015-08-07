@@ -24,5 +24,31 @@
 6. Enjoy.
 7. (Optional) Store the container for as long as you want in a dark place at room temperature. The nocino will become noticeably smoother and complex.
 
+## Shirley Temple
+Homemade, using grenadine from scratch. It's a little more effort, but it tastes so better that way, trust me.
+### Ingredients
+```
+8oz  Club Soda
+1/4cup Agave Syrup
+1/2cup Water
+1/4lbs Pitted Dark Red Cherries
+1      Lemon Peel
+1/2    Juiced Lemon
+1/2    Juiced Lime
+1tsp   Vanilla Extract
+1/4cup Ginger Ale (Optional)
+
+```
+- You can replace the Agave with any other syrup. Maple brings out an interesting taste, but sometimes can be overpowering. I would add less if you plan to use maple syrup.
+- Don't skimp out on the vanilla extract. There's a *huuuuge* difference between the cheap extract and one that is $5 more.
+
+### Directions
+1. Add pitted cherries, 1/4 cup of water, 1/4 cup of syrup, 1tsp of vanilla extract to a saucepan. Cook over medium heat for 10-15min, basically until a syruppy consistency.
+2. Remove pan from stove and strain.
+3. Add 1 lemon peel, juiced lemon and lime, 2-3tbsp of cherry syrup, and a handful of ice into a boston shaker. Shake.
+  - If you don't have a shaker, just stir the contents with ice a lot.A
+4. Add 8oz of club soda, and *gently* stir. (Don't user the boston shaker here).
+5. Strain shaker with glass filled with ice and enjoy!
+
 
 
