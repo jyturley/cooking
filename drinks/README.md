@@ -22,7 +22,7 @@
 4. Let it infuse for approximately 1 month.
 5. Strain away all solid ingredients and store in a smaller container.
 6. Enjoy.
-7. (Optional) Store the container for as long as you want in a dark place at room temperature. The nocino will become noticeably smoother and complex.7. (Optional) Store the container for as long as you want in a dark place at room temperature. The nocino will become noticeably smoother and complex.7. (Optional) Store the container for as long as you want in a dark place at room temperature. The nocino will become noticeably smoother and complex.7. (Optional) Store the container for as long as you want in a dark place at room temperature. The nocino will become noticeably smoother and complex.7. (Optional) Store the container for as long as you want in a dark place at room temperature. The nocino will become noticeably smoother and complex.7. (Optional) Store the container for as long as you want in a dark place at room temperature. The nocino will become noticeably smoother and complex.7. (Optional) Store the container for as long as you want in a dark place at room temperature. The nocino will become noticeably smoother and complex.
+7. (Optional) Store the container for as long as you want in a dark place at room temperature. The nocino will become noticeably smoother and complex.
 
 
 
