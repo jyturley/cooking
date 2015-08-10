@@ -6,3 +6,6 @@
 - [Nocino Italian Liquer](drinks#nocino)
 - [Homemade Shirley Temple](drinks#shirley-temple)
 
+##[Sides](sides)
+- [Homemade Lox](sides#homemade-lox)
+
