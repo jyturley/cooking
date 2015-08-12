@@ -22,4 +22,4 @@
 5. Wrap the salmon, herbs, salt, sugar in plastic wrap. Place in a tray, and let it sit overnight for at least 12-24 hours.
   * The longer it sits, the saltier it gets.
   * I tend to like mine less salty, so I stop at the 12 hour mark. 
-6. Once it's cured, remove the excell salt and sugar, and now you're done!
+6. Once it's cured, remove the excess salt and sugar, and now you're done!

@@ -44,3 +44,37 @@ Serves: 2 people
 ### Resources
 - [Serious Eats](http://www.seriouseats.com/2015/01/how-to-make-the-best-french-onion-soup-caramelization.html)
 - [Byron Talbott](http://www.byrontalbott.com/?s=french+onion+soup)
+
+## Sweet & Sour Grilled Sea Bass
+Asian/Hawaiian inspired dish that's great for the Spring and Summer. The glaze recipe is teriyaki-like and I'm very impressed with it.
+
+### Ingredients
+```
+10oz   White fish(Sea bass, Halibut, Snapper), Salmon, or Tuna
+3tbsp  Olive oil
+pinch  Salt
+1tsp   Cayenne pepper
+1tsp   Paprika
+1tsp   Lemon Zest
+1tsp   Grated Garlic
+pinch  Chopped parsley (Italian)
+
+Glaze:
+3tbsp  Mirin
+2tbsp  Sherry vinegar
+2tbsp  Rice wine vinegar
+2tbsp  Soy sauce
+2tsp   Grated ginger
+1tbsp  Brown sugar
+```
+
+- Original recipe calls for skewering this over the grill, but since I don't have a grill or skewers, I use a pan and fry it without skewers. Eaten with rice.
+- I've tried both paprika and smoked paprika. Depending on the type of smoked paprika, I feel like the smoked paprika combined with the wine and vinegars make it a little too bold.
+- If you use skewers, make sure you soak the skewers in water for 30min before using to prevent charring.
+
+### Instructions
+1. Slice fish into thick strips or cubes.
+2. Add the chunks into the mixing bowl, 3tbsp olice oil, pinch of salt, cayenne pepper, 1tsp paprika, lemon zest, chopped parsely, grated garlic.
+3. Set the fish aside, and heat a small sauce pan to medium heat. Add all sauce ingredients, and let it reduce for 10min. Then remove from heat.
+4. Grill the fish (or fry on a suace pan) for about 2-3min each side.
+5. Remove fish from the heat and serve with the glaze.
