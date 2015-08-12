@@ -2,7 +2,7 @@
 ## French Onion Soup
 ### Ingredients
 ```
-Serves: 2 people
+Serves: 2-3 people
 3tbsp   Unsalted Butter
 1.5lbs  Onions of mixed color.
 1/2     Bay Leaf
