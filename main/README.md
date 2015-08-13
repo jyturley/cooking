@@ -78,3 +78,21 @@ Glaze:
 3. Set the fish aside, and heat a small sauce pan to medium heat. Add all sauce ingredients, and let it reduce for 10min. Then remove from heat.
 4. Grill the fish (or fry on a suace pan) for about 2-3min each side.
 5. Remove fish from the heat and serve with the glaze.
+
+## Gordon Ramsay's Slow Roasted Pork Belly
+Gordon Ramsay posts an amazing cooking video, be never posts the recipe! This is my attempt to recreate the amaze-balls pork belly he cooks.
+### Ingredients
+```
+Serving Size: 4-5
+2lbs    Pork belly with the skin attached.
+Pinch   Salt
+1       Medium-sized bulb of fennel including some fronds.
+3cloves Garlic
+Handful Fennel Seeds
+Pinch   Cardimom Seeds
+2tbsp   Seeded Mustard
+1slice  Bread
+```
+### Instructions
+### Resources
+- [Gordon Ramsay's Cooking Video](https://www.youtube.com/watch?v=9biIOtEYeHc)
