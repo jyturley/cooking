@@ -46,7 +46,7 @@ Serves: 2 people
 - [Byron Talbott](http://www.byrontalbott.com/?s=french+onion+soup)
 
 ## Sweet & Sour Grilled Sea Bass
-Asian/Hawaiian inspired dish that's great for the Spring and Summer. The glaze recipe is teriyaki-like and I'm very impressed with it.
+Asian/Hawaiian inspired dish that's great for the Spring and Summer. The glaze recipe is teriyaki-like and I'm very proud of it.
 
 ### Ingredients
 ```
