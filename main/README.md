@@ -91,6 +91,7 @@ Pinch   Salt
 3cloves Garlic
 Handful Fennel Seeds
 Pinch   Cardimom Seeds
+2cupts  White Wine
 2tbsp   Seeded Mustard
 1slice  Bread
 ```
@@ -99,6 +100,14 @@ Pinch   Cardimom Seeds
 2. Rub salt all over the skin. When applying, roll the slab so that the streaks open up, letting the salt trap in between.
 3. Preheat oven to *355F*
 4. Cut fennel into course pieces. Big enough to eat with a fork, but small enough to be included in a chunky sauce.
-5. Add generous amounts of olive oil in the sauce pan. Add chopped fennel, crushed garlic, and a handful of fennel seeds to a sauce pan over medium-high heat.
+5. Add generous amounts of olive oil in the sauce pan. Add chopped fennel, crushed garlic, cardimom seeds, star anise, and a handful of fennel seeds to a sauce pan over medium-high heat.
+6. Sear the pork belly skin side on the sauce pan for 1-2 minutes. The skin should be golden-brown and crispy after this.
+7. Flip the pork belly and add more fennel seeds in between the diamond etches.
+8. Add white wine and let it reduce until the alcohol burns off.
+9. Add stock to the sauce pan until it almost fully immerses the pork belly, leaving the skin exposed.
+10. Leave in oven and bake for 2-2.5 hours. This depends on how much stock you ultimately end up using. Leave in the oven until the liquid level is almost completely reduced.
+11. Place the pork belly on the serving dish. Use a piece of bread to remove all the extra oil left in the sauce pan.
+12. Add a dallop of mustard, stir, and use that as a sauce.
+11. 
 ### Resources
 - [Gordon Ramsay's Cooking Video](https://www.youtube.com/watch?v=9biIOtEYeHc)
