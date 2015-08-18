@@ -80,6 +80,7 @@ Glaze:
 5. Remove fish from the heat and serve with the glaze.
 
 ## Gordon Ramsay's Slow Roasted Pork Belly
+**Currently Work In Progress**
 Gordon Ramsay posts an amazing cooking video, be never posts the recipe! This is my attempt to recreate the amaze-balls pork belly he cooks.
 ### Ingredients
 ```
@@ -94,5 +95,10 @@ Pinch   Cardimom Seeds
 1slice  Bread
 ```
 ### Instructions
+1. Wash the slab of pork belly. Using a sharp knife, make diagonal streaks on the skin 1/2 inch deep -- just enough to embed coarse grains of salt. Rotate 180 and make more diagonal streaks on the skin, creating a diamond hatch pattern.
+2. Rub salt all over the skin. When applying, roll the slab so that the streaks open up, letting the salt trap in between.
+3. Preheat oven to *355F*
+4. Cut fennel into course pieces. Big enough to eat with a fork, but small enough to be included in a chunky sauce.
+5. Add generous amounts of olive oil in the sauce pan. Add chopped fennel, crushed garlic, and a handful of fennel seeds to a sauce pan over medium-high heat.
 ### Resources
 - [Gordon Ramsay's Cooking Video](https://www.youtube.com/watch?v=9biIOtEYeHc)
