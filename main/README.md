@@ -125,7 +125,6 @@ The key to do this dish correctly is to prepare the eggplants in a way that the 
 ```
 1/2cup Kosher Salt
 1.5lbs Japanese/Chinese Eggplants - Trimmed, split into quarters 3-4inches long
-
 Pickled Chili Sauce Preparation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 2      Red Thai bird chillies
@@ -135,7 +134,6 @@ Pickled Chili Sauce Preparation
 2tsp   Soy Sauce (Dark)
 1tbsp  Chinkiang Black Vinegar
 1.25tsp Corn Starch
-
 Recipe
 ~~~~~~
 ~3tbsp Cooking Oil with a high smoke point (e.g. Peanut Oil)
