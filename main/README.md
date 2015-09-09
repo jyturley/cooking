@@ -110,5 +110,27 @@ Pinch   Cardimom Seeds
 11. Place the pork belly on the serving dish. Use a piece of bread to remove all the extra oil left in the sauce pan.
 12. Add a dallop of mustard, stir, and use that as a sauce.
 
+## Fish Fragrant Eggplant
+### Ingredients
+```
+1/2cup Kosher Salt
+1.5lbs Japanese/Chinese Eggplants - Trimmed, split into quarters 3-4inches long
+2      Red Thai bird chillies
+2tbsp  White Vinegar
+2tbsp  Shaoxing Wine
+1tbsp  Sugar
+2tsp   Soy Sauce (Dark)
+1tbsp  Chinkiang Black Vinegar
+1.25tsp Corn Starch
+~3tbsp Cooking Oil with a high smoke point (e.g. Peanut Oil)
+4tsp   Minced Ginger
+4      Medium cloves of garlic crushed
+4      Green Onions, chopped
+1.5    Sichuan Chili Broad Bean Paste
+4oz    Chicken Stock
+2tbsp  Sesame Oil
+       Roughly chopped cilantro as garnish.
+```
+
 ### Resources
 - [Gordon Ramsay's Cooking Video](https://www.youtube.com/watch?v=9biIOtEYeHc)
