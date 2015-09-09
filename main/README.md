@@ -110,11 +110,19 @@ Pinch   Cardimom Seeds
 11. Place the pork belly on the serving dish. Use a piece of bread to remove all the extra oil left in the sauce pan.
 12. Add a dallop of mustard, stir, and use that as a sauce.
 
+### Resources
+- [Gordon Ramsay's Cooking Video](https://www.youtube.com/watch?v=9biIOtEYeHc)
 ## Fish Fragrant Eggplant
+This is essentially my favorite Chinese dish. A common peasant meal in the Sicchuan province. It uses basic ingredients to create a luxuriant dish with warm colors and rich complex flavors.
+
+The key to do this dish correctly is to prepare the eggplants in a way that the bitterness is taken away while the moisture is maintained. As always, the food lab goes in to super detail about this:
 ### Ingredients
 ```
 1/2cup Kosher Salt
 1.5lbs Japanese/Chinese Eggplants - Trimmed, split into quarters 3-4inches long
+
+Pickled Chili Sauce Preparation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 2      Red Thai bird chillies
 2tbsp  White Vinegar
 2tbsp  Shaoxing Wine
@@ -122,6 +130,9 @@ Pinch   Cardimom Seeds
 2tsp   Soy Sauce (Dark)
 1tbsp  Chinkiang Black Vinegar
 1.25tsp Corn Starch
+
+Recipe
+~~~~~~
 ~3tbsp Cooking Oil with a high smoke point (e.g. Peanut Oil)
 4tsp   Minced Ginger
 4      Medium cloves of garlic crushed
@@ -133,4 +144,4 @@ Pinch   Cardimom Seeds
 ```
 
 ### Resources
-- [Gordon Ramsay's Cooking Video](https://www.youtube.com/watch?v=9biIOtEYeHc)
+- [The Food Lab](http://www.seriouseats.com/2015/02/how-to-make-sichuan-hot-and-sour-eggplant-vegan-experience-food-lab-fish-fragrant-eggplant.html)
