@@ -148,3 +148,27 @@ Recipe:
 
 ### Resources
 - [The Food Lab](http://www.seriouseats.com/2015/02/how-to-make-sichuan-hot-and-sour-eggplant-vegan-experience-food-lab-fish-fragrant-eggplant.html)
+
+## Braised Eggplat with Pork in Sichuan Sauce
+### Ingredients
+```
+3-4 Chinese Eggplants
+1/4cup Shaoxing Wine
+2tsp   Corn Starch
+3/4cup Chicken Broth
+1tbsp  ToubanJian
+3tbsp  Soy sauce
+2tbsp  Black Vinegar
+1tbsp  Sugar
+2tbsp  Ginger, finely chopped
+3tbsp  Garlic, finely chopped
+2      Green Chilis, small
+3tbsp  Grapeseed Oil
+4oz    Ground Pork
+```
+
+### Instructions
+Under Construction.
+
+### Resources
+- [The Food Lab](http://www.seriouseats.com/recipes/2010/07/sichuan-style-braised-eggplant-recipe.html)
