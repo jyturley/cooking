@@ -5,6 +5,7 @@
 - [Gordon Ramsay's Slow Roasted Pork Belly](main#gordon-ramsays-slow-roasted-pork-belly)
 - [Fish Fragrant Eggplant](https://github.com/jyturley/cooking/tree/master/main#fish-fragrant-eggplant)
 - [Braised Eggplant with Pork in Sichuan Sauce](https://github.com/jyturley/cooking/tree/master/main#braised-eggplant-with-pork-in-sichuan-sauce)
+- [The Best Goddamned Chili Ever](https://github.com/jyturley/cooking/tree/master/main#the-ultimate-chili)
 
 ##[Drinks](drinks)
 - [Nocino Italian Liquer](drinks#nocino)
