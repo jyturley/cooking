@@ -174,3 +174,59 @@ Under Construction.
 
 ### Resources
 - [The Food Lab](http://www.seriouseats.com/recipes/2010/07/sichuan-style-braised-eggplant-recipe.html)
+
+## The Ultimate Chili
+### Ingredients
+```
+1lb    Dried dark red kidney beans
+       Kosher salt
+4qts   Water
+3      Ancho, Pasilla, or Mulato Chilies, seeded, and torn into rough 1-inch pieces (~1/2oz)
+2      Whole New Mexico red, California, Consteno, or Choricero chilies, seeded and torn into rough 1-inch pieces (~1/8oz)
+1      Whole Cascabel, Arbol, or Pequin Chili, seeded, and torn in half
+5lbs   Bone-in beef short rib, trimmed of silverskin and excess fat
+       Fresh Ground Black Pepper
+2tbsp  Vegetable Oil
+1qt    Low-sodium chicken broth
+2      Whole anchovy filets
+1tsp   Marmite
+2tsp   Soy Sauce
+2tbsp  Tomato Paste
+1.5tbsp Whole cumin seeds, toasted, then ground
+1.5tsp  Whole coriander seeds, toasted, then ground
+2       Whole cloves, toasted, then ground
+1       Star Anise, toastedm then ground
+1tbsp   exta-finely ground coffee beans
+1oz     Chopped, unsweetened chocolate
+1       Yellow Onion, large (~1.5cups)
+3       Thai bird chilis, finely chopped
+4cloves Garlic, minced
+1tbsp   Dried Oregano leaves
+2       Bay Leaves
+28oz    Crushed Tomatoes (1 can)
+1/4cup  cider vinegar
+1.4cup  Vodka or Bourbon
+1tbsp   Buffalo-style hot sauce (e.g. Franks RedHot)
+2tbsp   Dark brown sugar
+
+Garnish (optional):
+Green Onions
+Cheddar, Jack, or Colby cheese, grated
+Sour Cream
+Jalapeno or poblano peppers, diced and seeded
+Onion, diced
+Avocado, diced
+Saltines
+Fritos
+```
+
+### Instructions
+
+### Resources
+- [The Food Lab](http://www.seriouseats.com/recipes/2010/01/the-best-chili-recipe.html)
+
+
+
+
+
+
