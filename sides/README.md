@@ -12,7 +12,8 @@
 ```
 
 - The actual amount of terragon/dill/fennel doesn't need to be 3tbsp. Just enough to baste and cover your salmon.
-- Cutting away the salmon skin is optional.
+- Cutting away the salmon skin is optional. You can make salmon skin bacon with it if you cure it!
+  - Pan fry the skin (after scaling) with brown sugar, bourbon, and some neutral oil, and that's it!
 
 ### Instructions
 1. Combine terragon, dill, and fennel in a bowl to make a nice herb mixture.

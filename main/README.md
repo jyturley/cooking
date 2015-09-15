@@ -114,7 +114,7 @@ Pinch   Cardimom Seeds
 - [Gordon Ramsay's Cooking Video](https://www.youtube.com/watch?v=9biIOtEYeHc)
 
 ## Fish Fragrant Eggplant
-This is essentially my favorite Chinese dish. A common peasant meal in the Sicchuan province. It uses basic ingredients to create a luxuriant dish with warm colors and rich complex flavors.
+This is essentially my favorite Chinese dish. A common peasant meal in the Sicchuan province, it uses basic ingredients to create a luxuriant dish with warm colors and rich complex flavors.
 
 The key to do this dish correctly is to prepare the eggplants in a way that the bitterness is taken away while the moisture is maintained. As always, the food lab goes in to super detail about this:
 > Whatever eggplan you use, one thing's for sure: Simply cutting them and stir-frying them does *not* work. The eggplants absorb all the oil, leaving dry sponts on the wok, which in turn allows the eggplant to stick and burn. Raw, untreated eggplants also take a long time to cook through, axacerbating the burning problem. Why is that?
@@ -150,6 +150,8 @@ Recipe:
 - [The Food Lab](http://www.seriouseats.com/2015/02/how-to-make-sichuan-hot-and-sour-eggplant-vegan-experience-food-lab-fish-fragrant-eggplant.html)
 
 ## Braised Eggplant with Pork in Sichuan Sauce
+Another amazing eggplant dish, very similar to the one above, but with more subtle, less vinegary taste. The pork here is completely optional.
+
 ### Ingredients
 ```
 3-4    Chinese Eggplants
