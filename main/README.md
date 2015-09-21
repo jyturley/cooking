@@ -220,6 +220,8 @@ Saltines
 Fritos
 ```
 
+No need to go all ot on purchasing the beef short-rib. Too much marbeling can cause the chili to get oily.
+
 ### Instructions
 
 ### Resources
