@@ -220,6 +220,8 @@ Saltines
 Fritos
 ```
 
+No need to go all ot on purchasing the beef short-rib. Too much marbeling can cause the chili to get oily.
+
 ### Instructions
 1. Beans + 6tbsp salt + water in large plastic container. Soak for 8 hours. Drain and rinse soaked beans.
 2. Add
