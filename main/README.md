@@ -178,20 +178,20 @@ Under Construction.
 ## The Ultimate Chili
 ### Ingredients
 ```
-1lb    Dried dark red kidney beans
-       Kosher salt
-4qts   Water
-3      Ancho, Pasilla, or Mulato Chilies, seeded, and torn into rough 1-inch pieces (~1/2oz)
-2      Whole New Mexico red, California, Consteno, or Choricero chilies, seeded and torn into rough 1-inch pieces (~1/8oz)
-1      Whole Cascabel, Arbol, or Pequin Chili, seeded, and torn in half
-5lbs   Bone-in beef short rib, trimmed of silverskin and excess fat
-       Fresh Ground Black Pepper
-2tbsp  Vegetable Oil
-1qt    Low-sodium chicken broth
-2      Whole anchovy filets
-1tsp   Marmite
-2tsp   Soy Sauce
-2tbsp  Tomato Paste
+1lb     Dried dark red kidney beans
+        Kosher salt
+4qts    Water
+3       Ancho, Pasilla, or Mulato Chilies, seeded, and torn into rough 1-inch pieces (~1/2oz)
+2       Whole New Mexico red, California, Consteno, or Choricero chilies, seeded and torn into rough 1-inch pieces (~1/8oz)
+1       Whole Cascabel, Arbol, or Pequin Chili, seeded, and torn in half
+5lbs    Bone-in beef short rib, trimmed of silverskin and excess fat
+        Fresh Ground Black Pepper
+2tbsp   Vegetable Oil
+1qt     Low-sodium chicken broth
+2       Whole anchovy filets
+1tsp    Marmite
+2tsp    Soy Sauce
+2tbsp   Tomato Paste
 1.5tbsp Whole cumin seeds, toasted, then ground
 1.5tsp  Whole coriander seeds, toasted, then ground
 2       Whole cloves, toasted, then ground
@@ -221,6 +221,8 @@ Fritos
 ```
 
 ### Instructions
+1. Beans + 6tbsp salt + water in large plastic container. Soak for 8 hours. Drain and rinse soaked beans.
+2. Add
 
 ### Resources
 - [The Food Lab](http://www.seriouseats.com/recipes/2010/01/the-best-chili-recipe.html)
