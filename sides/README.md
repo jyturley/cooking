@@ -24,3 +24,19 @@
   * The longer it sits, the saltier it gets.
   * I tend to like mine less salty, so I stop at the 12 hour mark. 
 6. Once it's cured, remove the excess salt and sugar, and now you're done!
+
+## Asazuke
+### Ingredients
+```
+2       Persian or Japanese Cucumbers
+1tsp    Salt
+2pieces Cut Kombu
+```
+
+### Instructions
+1. Wipe away the dust and coat the kombu with a thin layer of water
+2. Cut the cucumbers into small pieces
+3. Combine all ingredients in a plastic bag or a picking bin
+4. Mix and wait 60-90min
+
+
