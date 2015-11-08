@@ -13,4 +13,4 @@
 
 ##[Sides](sides)
 - [Homemade Lox](sides#homemade-lox)
-
+- [Asazuke](sides*asazuke)

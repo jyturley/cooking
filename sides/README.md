@@ -36,7 +36,8 @@
 ### Instructions
 1. Wipe away the dust and coat the kombu with a thin layer of water
 2. Cut the cucumbers into small pieces
-3. Combine all ingredients in a plastic bag or a picking bin
-4. Mix and wait 60-90min
+3. Combine all ingredients in a plastic bag or a pickling bin
+4. Mix and wait 60-90min. The more you leave it sitting in the water, the saltier it gets.
+5. When the correct salinity is reached, remove salty water and replace with tap water before storing.
 
 
