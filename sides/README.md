@@ -40,7 +40,7 @@
 4. Mix and wait 60-90min. The more you leave it sitting in the water, the saltier it gets.
 5. When the correct salinity is reached, remove salty water and replace with tap water before storing.
 
-## Dashimake Tamagoyaki
+## Dashimaki Tamago
 This is the best recipe I've come across for tamagoyaki. Simple, not too sweet, but packed with flavor.
 
 ### Ingredients
