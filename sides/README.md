@@ -40,4 +40,25 @@
 4. Mix and wait 60-90min. The more you leave it sitting in the water, the saltier it gets.
 5. When the correct salinity is reached, remove salty water and replace with tap water before storing.
 
+## Dashimake Tamagoyaki
+This is the best recipe I've come across for tamagoyaki. Simple, not too sweet, but packed with flavor.
+
+### Ingredients
+```
+4      Eggs
+1/4cup Dashi
+1tsp   Soy Sauce (preferrably light)
+1/4tsp Salt
+1tsp   Sugar
+1tsp   Mirin
+       Oil
+```
+
+### Instructions
+1. Mix all ingredients in a bowl
+2. Heat pan in medium heat with a little oil. Until surface gets to about ~180ºF
+3. Pour a third of the mixture on the pan, creating a thin layer of egg. Dont let it cook too much. Start folding it over.
+4. When no more egg is left to fold, add another third to create another layer of egg to fold over.
+5. Repeat one more time until no egg mixture is left.
+6. Set aside to cool for about 3minutes before cutting.
 
