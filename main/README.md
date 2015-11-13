@@ -122,8 +122,6 @@ The key to do this dish correctly is to prepare the eggplants in a way that the 
 > It's because eggplants contain so much excess air, distributed withing a spongy cell network. Air acts as an insuator, whihc means that heat travels through and eggplant very slowly.
 
 ### Ingredients
-```
-1/2cup Kosher Salt
 1.5lbs Japanese/Chinese Eggplants - Trimmed, split into quarters 3-4inches long
 
 Pickled Chili Sauce Preparation:
@@ -229,7 +227,29 @@ No need to go all ot on purchasing the beef short-rib. Too much marbeling can ca
 ### Resources
 - [The Food Lab](http://www.seriouseats.com/recipes/2010/01/the-best-chili-recipe.html)
 
+## Mohito Chicken
+This is a good dish to make if you have lots of limes left over.
 
+### Ingredients
+```
+1-2lb  Chicken
+
+Marinade:
+2      Shallots
+1/4cup Mint, coarsely chopped
+1/4cup Rum
+1tbsp  Lime zest, grated
+1/2    Lime juice. (about 8 limes)
+3tbsp  Honey
+2tbsp  Canola Oil
+1tbsp  Kosher Salt
+```
+- Chicken thighs are much more preferrable over chicken breast. They are easier to cook well and they taste better. The thigh meat compliments the mohito marinade very well, imho.
+
+### Directions
+1. Add all ingredients except for the meat in a food processer. Pulse until shallots are finely chopped. (Alternatively, you can cut everything up very finely yourself with a knife).
+2. Add marinade to bowl with 1-2lb of meat. Let it sit for 1-24hours.
+3. 
 
 
 
