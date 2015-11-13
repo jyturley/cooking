@@ -251,7 +251,8 @@ Marinade:
 ### Directions
 1. Add all ingredients except for the meat in a food processer. Pulse until shallots are finely chopped. (Alternatively, you can cut everything up very finely yourself with a knife).
 2. Add marinade to bowl with 1-2lb of meat. Let it sit for 1-24hours.
-3. 
+3. Preheat oven to 400ºF and pan fry marinated chicken on a hot pan. Put the chicken on the pan when surface of pan is around ~200ºF. Pan fry the chicken until char marks appear on all sides.
+4. Stick it in the oven until internal temperatur of chicken reaches 160-165ºF
 
 
 
