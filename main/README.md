@@ -122,6 +122,8 @@ The key to do this dish correctly is to prepare the eggplants in a way that the 
 > It's because eggplants contain so much excess air, distributed withing a spongy cell network. Air acts as an insuator, whihc means that heat travels through and eggplant very slowly.
 
 ### Ingredients
+```
+1/2cup Kosher salt
 1.5lbs Japanese/Chinese Eggplants - Trimmed, split into quarters 3-4inches long
 
 Pickled Chili Sauce Preparation:
