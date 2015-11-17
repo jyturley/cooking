@@ -2,8 +2,16 @@
 ## Pocky
 ### Ingredients
 ```
+Serving Size: ~30 pocky sticks
+Shortbread Sticks:
+
+
+Strawberry Chocolate:
+
 
 ```
+
+- Use (dark|milk) chocolate to create different flavors.
 
 ### Instructions
 ### Resources
