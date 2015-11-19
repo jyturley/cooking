@@ -62,3 +62,21 @@ This is the best recipe I've come across for tamagoyaki. Simple, not too sweet, 
 5. Repeat one more time until no egg mixture is left.
 6. Set aside to cool for about 3minutes before cutting.
 
+## Fried Eggplants
+Eggplants prepared Italian style.
+### Ingredients
+```
+1-2 Eggplants, American (with thick black skin).
+    Salt
+    Grapeseed Oil for frying
+```
+- According to Eleonara Consoli, a rockstar Sicillian mama with her own books and cooking show, the black-skinned eggplants are the way to go here instead of the thin skinned asian eggplants which are more suited for Sichuan cooking.
+
+### Directions
+1. Cut eggplant length-wise, and leave the skin on.
+2. Sprinkle with salt to draw moisture out. Don't worry about adding too much salt. 30-60min.
+3. Wash and strain with a towl for each slice.
+4. Heat oil to 330ºF and fry until both sides are golden brown. Pat with paper towles to remove excess oil. 
+
+### Resources
+- [FXCuisine](http://fxcuisine.com/Default.asp?language=2&Display=115&resolution=high)
