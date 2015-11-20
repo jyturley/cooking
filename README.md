@@ -16,6 +16,7 @@
 - [Homemade Lox](sides#homemade-lox)
 - [Asazuke](sides*asazuke)
 - [Dashimaki Tamago](sides#dashimaki-tamago)
+- [Agedashi Tofu](sides#agedashi-tofu)
 
 ##[Desserts](dessert)
 - [Homemade Pocky](dessert#pocky)

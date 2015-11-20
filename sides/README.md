@@ -107,5 +107,6 @@ Toppings:
 3. Heat oil to 350ºF
 4. Coat tofu with layer of potato starch and deep fry until light brown.
 5. Drain. Serve with sauce and toppings.
+
 ### Resources
 - [JustOneCookbook](http://www.justonecookbook.com/agedashi-tofu-2/)
