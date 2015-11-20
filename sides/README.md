@@ -80,3 +80,32 @@ Eggplants prepared Italian style.
 
 ### Resources
 - [FXCuisine](http://fxcuisine.com/Default.asp?language=2&Display=115&resolution=high)
+
+## Agedashi Tofu
+### Ingredients
+```
+Serves: 3
+1block Tofu (silken)
+4tbsp  Potato Starch
+       Oil for deep frying
+
+Sauce:
+1cup  Dashi
+2tbsp Soy sauce
+2tbsp Mirin
+
+Toppings:
+1"    Daikon
+1     Green onion
+      Katsuobushi shavings
+      Shichimi
+```
+### Instructions
+1. Drain tofu
+2. Cut green onions and grate daikon while tofu is being drained.
+3. Put dashi, soy sauce, and mirin in a suacepan and bring to boil. Turn off heat and set aside.
+3. Heat oil to 350ºF
+4. Coat tofu with layer of potato starch and deep fry until light brown.
+5. Drain. Serve with sauce and toppings.
+### Resources
+- [JustOneCookbook](http://www.justonecookbook.com/agedashi-tofu-2/)
