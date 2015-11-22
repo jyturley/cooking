@@ -4,7 +4,7 @@
 - [Sweet & Sour Grilled Sea Bass](#sweet--sour-grilled-sea-bass)
 - [Gordan Ramsay's Slow Roasted Pork Belly](gordon-ramsays-slow-roasted-pork-belly)
 - [Fish Fragrant Eggplant](#fish-fragrant-eggplant)
-- [Braised Eggplant with Pork in Sichuan Sauce](braised-eggplant-with-pork-in-sichuan-sauce)
+- [Braised Eggplant with Pork in Sichuan Sauce](#braised-eggplant-with-pork-in-sichuan-sauce)
 - [The Ultimate Chili](#the-ultimate-chili)
 - [Mohito Chicken](#mohito-chicken)
 
