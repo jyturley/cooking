@@ -1,4 +1,7 @@
 # Main Dishes
+
+- [French Onion Soup](#french-onion-soup)
+
 ## French Onion Soup
 ### Ingredients
 ```
