@@ -1,4 +1,9 @@
 # Side Dishes
+- [Homemade Lox](homemade-lox)
+- [Asazuke](asazuke)
+- [Dashimaki Tamago](dashimaki-tamago)
+- [Agedashi Tofu](agedashi-tofu)
+
 ## Homemade Lox
 ### Ingredients
 ```
