@@ -1,4 +1,7 @@
 # Drinks
+- [Nocino](#nocino)
+- [Shirley Temple](#shirley-temple)
+
 ## Nocino
 ### Ingredients
 ```
