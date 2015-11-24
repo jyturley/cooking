@@ -258,10 +258,11 @@ Marinade:
 - Chicken thighs are much more preferrable over chicken breast. They are easier to cook well and they taste better. The thigh meat compliments the mohito marinade very well, imho.
 
 ### Directions
-1. Add all ingredients except for the meat in a food processer. Pulse until shallots are finely chopped. (Alternatively, you can cut everything up very finely yourself with a knife).
-2. Add marinade to bowl with 1-2lb of meat. Let it sit for 1-24hours.
-3. Preheat oven to 400ºF and pan fry marinated chicken on a hot pan. Put the chicken on the pan when surface of pan is around ~200ºF. Pan fry the chicken until char marks appear on all sides.
-4. Stick it in the oven until internal temperatur of chicken reaches 160-165ºF
+1. If meat is frozen, thaw it out.
+2. Add all ingredients except for the meat in a food processer. Pulse until shallots are finely chopped. (Alternatively, you can cut everything up very finely yourself with a knife).
+3. Add marinade to bowl with 1-2lb of meat. Let it sit for 1-24hours.
+4. Preheat oven to 400ºF and pan fry marinated chicken on a hot pan. Put the chicken on the pan when surface of pan is around ~200ºF. Pan fry the chicken until char marks appear on all sides.
+5. Stick it in the oven until internal temperatur of chicken reaches 160-165ºF. This is approximately 15min
 
 
 
