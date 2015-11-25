@@ -190,9 +190,12 @@ Under Construction.
 1lb     Dried dark red kidney beans
         Kosher salt
 4qts    Water
-3       Ancho, Pasilla, or Mulato Chilies, seeded, and torn into rough 1-inch pieces (~1/2oz)
-2       Whole New Mexico red, California, Consteno, or Choricero chilies, seeded and torn into rough 1-inch pieces (~1/8oz)
-1       Whole Cascabel, Arbol, or Pequin Chili, seeded, and torn in half
+3       Ancho, Pasilla, or Mulato Chilies, 
+          seeded and torn into rough 1-inch pieces (~1/2oz)
+2       Whole New Mexico red, California, Consteno, or Choricero chilies, 
+          seeded and torn into rough 1-inch pieces (~1/8oz)
+1       Whole Cascabel, Arbol, or Pequin Chili, 
+          seeded, and torn in half
 5lbs    Bone-in beef short rib, trimmed of silverskin and excess fat
         Fresh Ground Black Pepper
 2tbsp   Vegetable Oil
@@ -240,6 +243,7 @@ No need to go all ot on purchasing the beef short-rib. Too much marbeling can ca
 6. Heat 4 tablespoons rendered beef fat (if necessary, add vegetable oil to reach 4 tablespoons) in large Dutch oven or heavy-bottomed stock pot over medium heat until shimmering. Add onions and cook, stirring frequently, until softened but not browned, 6 to 8 minutes. Add fresh chiles, garlic, and oregano and cook, stirring frequently, until fragrant, about 1 minute. Add chile puree and cook, stirring frequently and scraping bottom of pot until chile mixture begins to fry and leaves a coating on bottom of pan, 2 to 4 minutes. Add chicken stock, chopped beef, beef bones, and bay leaves. Bring to a simmer, scraping bottom of pan to loosen browned bits. Reduce heat to lowest possible setting, add beans, and cook, with cover slightly ajar, until beans are almost tender, about 1 hour. Add crushed tomatoes and cider vinegar and cook with cover slightly ajar until beans and beef are fully tender and broth is rich and lightly thickened, 2 to 3 1/2 hours longer, adding water if necessary to keep beans and meat mostly submerged (a little protrusion is ok).
 7. Using tongs, remove and discard bay leaves and bones (at this point, any excess meat still attached to the bones can be removed, chopped, and added back to the chili, if desired). Add vodka (or bourbon), hot sauce, and brown sugar, and stir to combine. Season to taste with kosher salt, ground black pepper, and additional vinegar
 8. Serve immediately, or for best flavor, allow to cool and refrigerate overnight, or up to 1 week in sealed container. Reheat, and serve with desired garnishes.
+
 
 ### Resources
 - [The Food Lab](http://www.seriouseats.com/recipes/2010/01/the-best-chili-recipe.html)
