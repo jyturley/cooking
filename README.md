@@ -1,4 +1,6 @@
 # cooking
+A personal repo for recipes that I've tweaked over time.
+
 ##[Main Dishes](main)
 - [French Onion Soup](main#french-onion-soup)
 - [Sweet & Sour Grilled Sea Bass](main#sweet--sour-grilled-sea-bass)
