@@ -133,6 +133,7 @@ The key to do this dish correctly is to prepare the eggplants in a way that the 
 ### Ingredients
 ```
 1/2cup Kosher salt
+1.5qts Water
 1.5lbs Japanese/Chinese Eggplants - Trimmed, split into quarters 3-4inches long
 
 Pickled Chili Sauce Preparation:
@@ -154,6 +155,19 @@ Recipe:
 2tbsp  Sesame Oil
        Roughly chopped cilantro as garnish.
 ```
+
+### Instructions
+1. Combine salt and water to make a brine. Cut eggplants into pieces and let it soak for 15-20min. Ideally, keep the eggplants skin-side up so the fleshy part is in contact with the salt water.
+2. Heat white vinegar until it starts to bubble. Pour in a small sauce jar over chopped fresh thai bird chilis. Wait 5min.
+3. Add the rest of the pickled chili sauce ingredients and stir and set aside.
+4. Take the eggplants out of the water and individually dry them out. 
+	- This is very important because the presence of moisture during wok fry makes it exponentially difficult to create a char, resulting in a mushy eggplant. Water has a very high specific heat.
+5. Heat oil in wok, right up until smoke point. (At the very least above water boil temp - 212ºF). Then reduce heat to Medium.
+6. Add eggplants in batches. Don't overcrowd the wok. Heat each side of the eggplant until Maillard reaction occurs then flip. Remove when all sides are charred.
+7. Add oil to wok again if not much left. Add broad bean paste to wok and stir around until oil is red.
+8. Add garlic, green onions, and ginger and let it cook until fragrant.
+9. Add eggplant, stock, and the pickled chili sauce. Stir fry everything.
+10. Cut the heat, move to serving dish. Top it off with sesame oil and chopped cilantro as garnish.
 
 ### Resources
 - [The Food Lab](http://www.seriouseats.com/2015/02/how-to-make-sichuan-hot-and-sour-eggplant-vegan-experience-food-lab-fish-fragrant-eggplant.html)
