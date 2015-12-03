@@ -119,6 +119,10 @@ Pinch   Cardimom Seeds
 11. Place the pork belly on the serving dish. Use a piece of bread to remove all the extra oil left in the sauce pan.
 12. Add a dallop of mustard, stir, and use that as a sauce.
 
+### Notes
+- So far a good presentation dish, but flavor massively needs work.
+- The Fennel and cardimom combination doesn't work as well.
+
 ### Resources
 - [Gordon Ramsay's Cooking Video](https://www.youtube.com/watch?v=9biIOtEYeHc)
 
