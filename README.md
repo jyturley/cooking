@@ -9,6 +9,7 @@ A personal repo for recipes that I've tweaked over time.
 - [Braised Eggplant with Pork in Sichuan Sauce](main#braised-eggplant-with-pork-in-sichuan-sauce)
 - [The Best Goddamned Chili Ever](main#the-ultimate-chili)
 - [Mohito Chicken](main#mohito-chicken)
+- [Chicken Karahi](main#chicken-karahi)
 
 ##[Drinks](drinks)
 - [Nocino Italian Liquer](drinks#nocino)

@@ -7,6 +7,7 @@
 - [Braised Eggplant with Pork in Sichuan Sauce](#braised-eggplant-with-pork-in-sichuan-sauce)
 - [The Ultimate Chili](#the-ultimate-chili)
 - [Mohito Chicken](#mohito-chicken)
+- [Chicken Karahi](#chicken-karahi)
 
 ## French Onion Soup
 ### Ingredients
@@ -291,6 +292,33 @@ Marinade:
 3. Add marinade to bowl with 1-2lb of meat. Let it sit for 1-24hours.
 4. Preheat oven to 400ºF and pan fry marinated chicken on a hot pan. Put the chicken on the pan when surface of pan is around ~200ºF. Pan fry the chicken until char marks appear on all sides.
 5. Stick it in the oven until internal temperatur of chicken reaches 160-165ºF. This is approximately 15min
+
+## Chicken Karahi
+A Pakistani dish taught to me by my former roommate Ali. A dish noted for its spicy taste and usage of tomatoes. This is dish goes especially well in the summer at the peak of tomato season.
+
+### Ingredients
+```
+Serves: 3people
+
+1-1.5lbs Chicken
+15oz     Roma tomatos (about 5 average sized ones)
+1-2      Thai bird chilis
+1tbsp    Garlic, chopped
+1tbsp    Ginger, chopped
+
+Spices:
+1tsp     Salt
+1tsp     Coriander poweder
+1tsp     Coriander seeds, toasted and grinded
+1/2tsp   Turmeric powder
+1tsp     Cumin Seed
+1/2tsp   Chili powder
+
+Garnish (Optional):
+1/4cup  Cilantro, chopped
+```
+
+### Instructions
 
 
 
