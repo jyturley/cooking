@@ -251,7 +251,7 @@ Saltines
 Fritos
 ```
 
-No need to go all ot on purchasing the beef short-rib. Too much marbeling can cause the chili to get oily.
+No need to go all out on purchasing the beef short-rib. Too much marbeling can cause the chili to get oily.
 
 ### Instructions
 1. Beans + 6tbsp salt + water in large plastic container. Soak for 8 hours. Drain and rinse soaked beans.
@@ -301,7 +301,7 @@ A Pakistani dish taught to me by my former roommate Ali. A dish noted for its sp
 Serves: 3people
 
 1-1.5lbs Chicken
-15oz     Roma tomatos (about 5 average sized ones)
+15oz     Roma tomatos (about 5 average sized ones), diced
 1-2      Thai bird chilis
 1tbsp    Garlic, chopped
 1tbsp    Ginger, chopped
@@ -319,7 +319,11 @@ Garnish (Optional):
 ```
 
 ### Instructions
-Under Construction
+1. Heat oil in a large bowl to at least 212ºF, add chicken until 80% ready. Internal temperature should be 145ºF
+2. Add garlic and ginger, then chilis after 30seconds.
+3. Add tomatoes and the rest of the ingredients. 
+4. Put heat to low and let simmer for 10minutes.
+5. Add garnish and serve
 
 
 
