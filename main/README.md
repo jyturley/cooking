@@ -84,10 +84,13 @@ Glaze:
 
 ### Instructions
 1. Slice fish into thick strips or cubes.
-2. Add the chunks into the mixing bowl, 3tbsp olice oil, pinch of salt, cayenne pepper, 1tsp paprika, lemon zest, chopped parsely, grated garlic.
+2. Add the chunks into the mixing bowl, 3tbsp olive oil, pinch of salt, 1tsp cayenne pepper, 1tsp paprika, 1tsp lemon zest, chopped parsely, 1tsp grated garlic.
 3. Set the fish aside, and heat a small sauce pan to medium heat. Add all sauce ingredients, and let it reduce for 10min. Then remove from heat.
 4. Grill the fish (or fry on a suace pan) for about 2-3min each side.
 5. Remove fish from the heat and serve with the glaze.
+
+### Resources
+- [Byron Talbott](http://www.byrontalbott.com/sweet-sour-grilled-sea-bass/)
 
 ## Gordon Ramsay's Slow Roasted Pork Belly
 **Currently Work In Progress**
