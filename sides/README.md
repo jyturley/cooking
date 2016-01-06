@@ -115,3 +115,32 @@ Toppings:
 
 ### Resources
 - [JustOneCookbook](http://www.justonecookbook.com/agedashi-tofu-2/)
+
+## Lotus Root Stir-fry
+Great Japanese side dish for your bento. The cut lotus root brings out interesting shapes in the presentation of your lunch!
+
+### Ingredients
+```
+1/2     Lotus root, skinned and sliced very thinly
+1piece  Ginger, ~1" and chopped
+2cloves Garlic, chopped
+1.5cups Green onions, chopped roughly
+1tbsp   Sesame Seeds
+2tbsp   Hot red chili pepper, finely chopped
+        Oil for stir-frying
+	Vinegar to treat the lotus root
+1.5tbsp Soy sauce
+1tsp    Sesame oil
+```
+
+### Instructions
+1. Boil Water and add a splash of vinegar to it.
+2. Slice lotus root and immediately add it to water for at least 5min. Drain and set aside.
+3. Heat oil in pan. Once hot, fry each side of the lotus slices until it changes color.
+4. Remove lotus root and set aside. Add in ginger, garlic, chili peppers, and green onions and stir fry very briefly.
+	1. Not too much though, otherwise the green onion wilts.
+5. Add back lotus root add sesame seeds and soy sauce. Stir fry until mixed.
+6. Serve on a plate with sesame oil drizzeled on top.
+
+### Resources
+- [Just Hungry](http://justhungry.com/how-cook-lotus-root-renkon)
