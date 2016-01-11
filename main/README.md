@@ -8,6 +8,7 @@
 - [The Ultimate Chili](#the-ultimate-chili)
 - [Mohito Chicken](#mohito-chicken)
 - [Chicken Karahi](#chicken-karahi)
+- [Thai Eggplant Curry](#thai-eggplant=curry)
 
 ## French Onion Soup
 ### Ingredients
@@ -328,6 +329,36 @@ Garnish (Optional):
 4. Put heat to low and let simmer for 10minutes.
 5. Add garnish and serve
 
+## Thai Eggplant Curry
 
+### Ingredients
+```
+Serves: 2-3people
+
+~7      Thai Eggplant, quartered
+1.5     Onion, chopped
+1cup    Red Bell Pepper, chopped
+4cloves Garlic, finely chopped
+1tbsp   Ginger, finely chopped
+1       Thai bird chili
+14oz    Coconut Milk (1 can)
+2tsp    Coriander Powder
+1tsp    Turmeric
+2tsp    Chili Powder
+1/2cup  Thai Basil
+1-2tbsp Lime juice
+        Oil
+	Salt
+```
+
+### Directions
+1. Heat sauce pan that can easily hold 14oz of coconut milk.
+2. Add onions, peppers, garlic, ginger, and chlis to pan. Let carmelize.
+3. Add eggplants and cook until eggplant has softened a little. Then add coconut milk and spices.
+4. Bring to a bubble, cover, and let simmer for 10min.
+5. Mix in the chopped basil, and add lime juice/salt to taste.
+
+### Resources
+- (Chef Buck)[http://www.myfoodchannel.com/thai-eggplant-recipe/]
 
 
