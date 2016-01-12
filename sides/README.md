@@ -3,6 +3,8 @@
 - [Asazuke](asazuke)
 - [Dashimaki Tamago](dashimaki-tamago)
 - [Agedashi Tofu](agedashi-tofu)
+- [Lotus Root Stir-fry](lotus-root-stir-fry)
+- [Miso Glazed Eggplant](miso-glazed-eggplant)
 
 ## Homemade Lox
 ### Ingredients
@@ -144,3 +146,24 @@ Great Japanese side dish for your bento. The cut lotus root brings out interesti
 
 ### Resources
 - [Just Hungry](http://justhungry.com/how-cook-lotus-root-renkon)
+
+## Miso Glazed Eggplant
+### Ingredients
+```
+Serves: 4 for appetizer
+
+2tbsp Mirin
+2tbsp Sake
+2tbsp Shiro Miso
+2tbso Water
+3tbsp Sugar
+2     Eggplants, Japanese, cut in half
+      Sesame Oil
+
+Garnish:
+      Sesame Seeds
+      Green Onions
+```
+### Directions
+### Resources
+- [momofukufor2](http://www.myfoodchannel.com/thai-eggplant-recipe/)
