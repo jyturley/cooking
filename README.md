@@ -10,6 +10,7 @@ A personal repo for recipes that I've tweaked over time.
 - [The Best Goddamned Chili Ever](main#the-ultimate-chili)
 - [Mohito Chicken](main#mohito-chicken)
 - [Chicken Karahi](main#chicken-karahi)
+- [Thai Eggplant Curry](main#thai-eggplant-curry)
 
 ##[Drinks](drinks)
 - [Nocino Italian Liquer](drinks#nocino)
