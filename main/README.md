@@ -362,6 +362,6 @@ Serves: 2-3people
 5. Mix in the chopped basil, and add lime juice/salt to taste.
 
 ### Resources
-- (Chef Buck)[http://www.myfoodchannel.com/thai-eggplant-recipe/]
+- [Chef Buck](http://www.myfoodchannel.com/thai-eggplant-recipe/)
 
 
