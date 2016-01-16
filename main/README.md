@@ -187,7 +187,7 @@ Another amazing eggplant dish, very similar to the one above, but with more subt
 ### Ingredients
 ```
 3-4    Chinese Eggplants
-1/4cup Shaoxing Wine
+1/8cup Shaoxing Wine
 2tsp   Corn Starch
 3/4cup Chicken Broth
 1tbsp  ToubanJian
@@ -204,6 +204,9 @@ Another amazing eggplant dish, very similar to the one above, but with more subt
 ### Instructions
 Under Construction.
 
+### Notes
+version 2.0
+- Reduced amount of Shaoxing wine
 ### Resources
 - [The Food Lab](http://www.seriouseats.com/recipes/2010/07/sichuan-style-braised-eggplant-recipe.html)
 
