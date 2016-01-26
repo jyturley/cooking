@@ -165,5 +165,11 @@ Garnish:
       Green Onions
 ```
 ### Directions
+1. Add all ingredients to sauce pan and let simmer for 2minutes.
+2. Broil eggplant cutside down on a baking sheet for 3minutes. Check oftento prevent burning
+3. Turn them over and broil for 3minutes to make it light-medium brown.
+4. Take eggplants out, and paste miso sauce over the eggplants. Return to oven and broil until sauce starts bubbling.
+5. Add garnish and serve.
+
 ### Resources
-- [momofukufor2](http://www.myfoodchannel.com/thai-eggplant-recipe/)
+- [momofukufor2](http://momofukufor2.com/2010/06/nasu-dengaku-miso-glazed-eggplant-recipe/)
