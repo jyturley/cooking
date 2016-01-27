@@ -164,6 +164,7 @@ Garnish:
       Sesame Seeds
       Green Onions
 ```
+
 ### Directions
 1. Add all ingredients to sauce pan and let simmer for 2minutes.
 2. Broil eggplant cutside down on a baking sheet for 3minutes. Check oftento prevent burning
