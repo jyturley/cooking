@@ -178,6 +178,8 @@ Garnish:
 ## Roasted Butternut Squash Kale Maple Salad
 ### Ingredients
 ```
+Serves: 6 as a side.
+
 2.5lbs  Butternut squash, cubed into 0.5" pieces
 1/2cups Extra-virgin olive oil
         Salt
