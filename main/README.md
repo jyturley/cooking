@@ -364,4 +364,22 @@ Serves: 2-3people
 ### Resources
 - [Chef Buck](http://www.myfoodchannel.com/thai-eggplant-recipe/)
 
+## Braised Eggplant with Garlic and Basil
+### Ingredients
+```
+Serves: 2-3
 
+1/4cup Soy sauce, light
+1tsp    Sugar
+2tsp    Toubanjian
+1tsp    Cornstarch
+3tbsp   Oil
+1lb     Eggplants, Chinese, sliced into 1/2inch disks
+2cloves Garlic, medium - minced
+1/4tsp  Salt
+1/4cup  Thai basil
+
+```
+### Instructions
+### Resources
+- [Serious Eats](http://www.seriouseats.com/2013/08/braised-taiwanese-eggplant-with-garlic-and-basil.html)
