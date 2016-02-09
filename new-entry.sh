@@ -43,9 +43,9 @@ echo $ENTRY_LINK
 
 AWK_STATEMENT='/^-/ && !modif { printf('"- [$ENTRY](#$ENTRY_LINK)"'); modif=1 } {print}'
 # awk '/^$/ $$ !modif { printf("INSERT\n"); modif=1} {print}' $TARGET_MD
-# cat $TARGET_MD | awk -v ENTRY="$ENTRY" '/^-/ && !modif { printf("- [$ENTRY](#TRY_LINK)\n"); modif=1 } {print}'
+awk '/^-/ && !modif { printf("- [ENVIRON[\"ENTRY\"]](#$TRY_LINK)\n"); modif=1 } {print}' $TARGET_MD
 echo $TARGET_MD
 # echo $AWK_STATEMENT
-awk $AWK_STATEMENT $TARGET_MD
+# awk $AWK_STATEMENT $TARGET_MD
 echo "Done!"
 exit 0
