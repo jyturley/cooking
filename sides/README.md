@@ -176,3 +176,30 @@ Garnish:
 
 ### Resources
 - [momofukufor2](http://momofukufor2.com/2010/06/nasu-dengaku-miso-glazed-eggplant-recipe/)
+
+## Roasted Butternut Squash Kale Maple Salad
+### Ingredients
+```
+Serves: 6 as a side.
+
+2.5lbs  Butternut squash, cubed into 0.5" pieces
+1/2cups Extra-virgin olive oil
+        Salt
+1bunch  Kale, lacinato
+1/4tsp  Cinnamon, ground
+1/2tsp  Paprika
+1/4tsp  Nutmet, ground
+1pinch  Cloves, ground
+1pinch  Cayenne pepper
+1tbsp   Brown Sugar, light
+1.5cups Pecans
+1       Shallot, small
+2tbsp   Maple syrup
+1tbsp   Whole grain mustard
+1tbsp   Sherry vinegar
+1cup    Cranberries, dried
+```
+### Directions
+Under Construction.
+### Resources
+- [FoodLab](http://www.seriouseats.com/recipes/2015/11/roasted-squash-kale-make-ahead-spiced-nut-cranberry-maple-recipe.html)
