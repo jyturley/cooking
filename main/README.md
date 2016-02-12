@@ -369,7 +369,8 @@ Serves: 2-3people
 ```
 Serves: 2-3
 
-1/4cup Soy sauce, light
+1/3cup  Water
+1/4cup  Soy sauce, light
 1tsp    Sugar
 2tsp    Toubanjian
 1tsp    Cornstarch
