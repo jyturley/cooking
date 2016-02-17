@@ -388,3 +388,11 @@ Version 2.0
 - Reduced amount of water. Waiting to simmer takes too long, and thicker sauce is nicer.
 ### Resources
 - [Serious Eats](http://www.seriouseats.com/2013/08/braised-taiwanese-eggplant-with-garlic-and-basil.html)
+
+## Mongolian Beef
+### Instructions
+### Notes
+- Version 2.0
+- Reduced amount of starch necessary.
+### Resources
+- [The Woks of Life](http://thewoksoflife.com/2015/07/mongolian-beef-recipe/)
