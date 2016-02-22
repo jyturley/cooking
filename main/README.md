@@ -384,12 +384,18 @@ Serves: 2-3
 ```
 ### Instructions
 ### Notes
-Version 2.0
+- Version 2.0
 - Reduced amount of water. Waiting to simmer takes too long, and thicker sauce is nicer.
 ### Resources
 - [Serious Eats](http://www.seriouseats.com/2013/08/braised-taiwanese-eggplant-with-garlic-and-basil.html)
 
 ## Mongolian Beef
+### Ingredients
+```
+Serves: 2-3
+
+
+```
 ### Instructions
 ### Notes
 - Version 2.0
