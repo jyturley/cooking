@@ -394,9 +394,26 @@ Serves: 2-3
 ```
 Serves: 2-3
 
-
+8oz     Flank steak, sliced against grain 1/4inch thick slices
+1tsp    Oil
+1.5tbsp Cornstarch
+1/2tsp  Ginger, minced
+2cloves Garlic, chopped
+1/4cup  Soy sauce, low sodium
+1/4cup  Water/Stock (low sodium)
+2tbsp   Brown sugar
+1tbsp   Cornstarch mixed with 1tbsp water.
+2       Green onions, diagonally sliced
 ```
+
 ### Instructions
+1. Lightly coat beef with cornstarch with 1tbsp oil. Let marinate ~20min
+2. Heat ~1/3cup oil until pre-smoke point. Add steak and wok until a little crispy.
+3. Drain all oil except enough to sauté the ginger/chili/garlic. Cook until fragrant.
+4. Add soy sauce + water or stack mixture. Add brown sugar. Bring sauce to simmer.
+5. Add in the cornstarch slurry until a good consistency (you dont have to use all of it)
+6. Add in rest of the ingredients and serve with rice.
+
 ### Notes
 - Version 2.0
 - Reduced amount of starch necessary.
