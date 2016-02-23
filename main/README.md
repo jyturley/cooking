@@ -9,6 +9,7 @@
 - [Mohito Chicken](#mohito-chicken)
 - [Chicken Karahi](#chicken-karahi)
 - [Thai Eggplant Curry](#thai-eggplant=curry)
+- [Basic Fried Rice](#basic-fried-rice)
 
 ## French Onion Soup
 ### Ingredients
@@ -420,3 +421,15 @@ Serves: 2-3
 - Reduced amount of starch necessary.
 ### Resources
 - [The Woks of Life](http://thewoksoflife.com/2015/07/mongolian-beef-recipe/)
+
+## Basic Fried Rice
+Yes. Fried rice is considered the easiest dishes to make, and it's the right of passage for anyone learning asian cooking. The versatility and simplicity make is a super delicious, popular dish that can be made with very little time. But are you saying your recipe can't be improved?
+
+I didn't know I had been making it wrong all this time.
+
+### Ingredients
+
+### Instructions
+
+### Resources
+- [Serious Eats](http://www.seriouseats.com/2016/02/the-food-lab-how-to-make-best-fried-rice-chinese-thai-wok-technique-right-type-of-rice.html)
