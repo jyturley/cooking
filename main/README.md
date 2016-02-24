@@ -419,13 +419,14 @@ Serves: 2-3
 ### Notes
 - Version 2.0
 - Reduced amount of starch necessary.
+
 ### Resources
 - [The Woks of Life](http://thewoksoflife.com/2015/07/mongolian-beef-recipe/)
 
 ## Basic Fried Rice
 Yes. Fried rice is considered the easiest dishes to make, and it's the right of passage for anyone learning asian cooking. The versatility and simplicity make is a super delicious, popular dish that can be made with very little time. But are you saying your recipe can't be improved?
 
-I didn't know I had been making it wrong all this time.
+I didn't know I had been making it wrong all this time. You actually taste the rice, not the soy sauce that's been drenching the medium!
 
 ### Ingredients
 
