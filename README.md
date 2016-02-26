@@ -11,6 +11,7 @@ A personal repo for recipes that I've tweaked over time.
 - [Mohito Chicken](main#mohito-chicken)
 - [Chicken Karahi](main#chicken-karahi)
 - [Thai Eggplant Curry](main#thai-eggplant-curry)
+- [Basic Fried Rice](main#basic-fried-rice)
 
 ##[Drinks](drinks)
 - [Nocino Italian Liquer](drinks#nocino)
