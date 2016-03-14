@@ -165,6 +165,7 @@ Recipe:
 2tbsp  Sesame Oil
        Roughly chopped cilantro as garnish.
 ```
+- The peppers can be anything. In fact, a larger fleshier pepper would be preferrable to give it the carmelized texture. However, the heat of the 2 thai bird chilis is very important, so try to match that.
 
 ### Instructions
 1. Combine salt and water to make a brine. Cut eggplants into pieces and let it soak for 15-20min. Ideally, keep the eggplants skin-side up so the fleshy part is in contact with the salt water.
