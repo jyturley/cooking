@@ -24,6 +24,7 @@ A personal repo for recipes that I've tweaked over time.
 - [Agedashi Tofu](sides#agedashi-tofu)
 - [Lotus Root Stir-fry](sides#lotus-root-stir-fry)
 - [Miso Glazed Eggplant](sides#miso-glazed-eggplant)
+- [Asparagus Soup](sides#asparagus-soup)
 
 ##[Desserts](dessert)
 - [Homemade Pocky](dessert#pocky)

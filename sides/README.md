@@ -203,3 +203,30 @@ Serves: 6 as a side.
 Under Construction.
 ### Resources
 - [FoodLab](http://www.seriouseats.com/recipes/2015/11/roasted-squash-kale-make-ahead-spiced-nut-cranberry-maple-recipe.html)
+
+## Asparagus Soup
+A perfect dish on a cold night or when you are sick. It's a little bit on the creamier/richer side, so it works well as a side dish to something crisp, like greek salad for example.
+
+### Ingredients
+```
+Serves: 4
+
+2lbs   Asparagus
+1      Onion, large
+3tbsp  Butter, unsalted
+5cups  Chicken broth
+1/2cup Heavy cream or creme fraiche
+1/4tsp Lemon juice, fresh
+```
+
+### Directions
+1. Cut tips for 12-16 asparagus, and save for garnish.
+2. Cut the asparagus into 1/2 inche pieces.
+3. Use a 4-quart pot and use 2tbsp of butter with chopped onions. Cook until onions are soft.
+4. Add in the chicken broth and simmmer for 15minutes. In the meantime, boil the garnish in salt water for ~5minutes.
+5. Use a blender to puree the broth and return everything back into the pot. At this point you can refrigerate what you have until just before servince.
+6. Just before serving, heat up soup, add in the remaining butter, heavy cream and lemon juice and stir.
+7. Serve with garnish and fresh lemon juice.
+
+### Resources
+- [Epicurious](http://www.epicurious.com/recipes/food/views/cream-of-asparagus-soup-creme-dasperges-104746)
