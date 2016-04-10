@@ -232,6 +232,7 @@ Serves: 4
 - [Epicurious](http://www.epicurious.com/recipes/food/views/cream-of-asparagus-soup-creme-dasperges-104746)
 
 ## Hearty Endive Lentil Parmesian Soup
+Perfect for a cold, rainy Sunday. Sometime you just want to feel healthy with a shitton of vegetables packed into a single dish.
 ### Ingredients
 ```
 Serves: 4
@@ -249,9 +250,17 @@ Serves: 4
 2tsp    Soy sauce
 1tsp    Fish Sauce
         Black pepper, freshly ground
+1pack   Italian meatballs
 1/3cup  Lentils
 1/4cup  Parsley leaves, chopped
         Parmesan as garnish, grated
 ```
 ### Directions
+1. Heat olive oil in a large saucepan over medium-high heat until shimmering. Add onions, carrots, and celery. Cook, stirring occasionally, until softened but not browned, about 4 minutes. Add rosemary and garlic and cook, stirring, until fragrant, about 1 minute. Add chopped endive and cook, stirring occasionally, until wilted, about 5 minutes. Add tomato paste and continue to cook, stirring frequently, until liquid has evaporated and mixture begins to sizzle, about 5 minutes longer. 
+2. Stir in broth. Add bay leaves, Parmesan rind, soy sauce, and fish sauce (if using), and bring to a boil. Reduce to a bare simmer and cook, stirring occasionally, until barley is softened and soup has absorbed flavor from parmesan and bay leaves, about 25 minutes. Season to taste with salt and pepper. 
+2. Stir in broth. Add bay leaves, Parmesan rind, soy sauce, and fish sauce (if using), and bring to a boil. Add meatballs, then reduce to a bare simmer and cook, stirring occasionally, until barley is softened and soup has absorbed flavor from parmesan and bay leaves, about 25 minutes. Season to taste with salt and pepper. 
+4. Season to taste with salt and pepper. Stir in parsley. Serve, drizzling with olive oil and sprinkling with Parmesan.
+
 ### Resources
+- [Serious Eats](http://www.seriouseats.com/recipes/2013/11/hearty-escarole-barley-parmesan-soup-recipe.html)
+
