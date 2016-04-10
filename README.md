@@ -25,6 +25,7 @@ A personal repo for recipes that I've tweaked over time.
 - [Lotus Root Stir-fry](sides#lotus-root-stir-fry)
 - [Miso Glazed Eggplant](sides#miso-glazed-eggplant)
 - [Asparagus Soup](sides#asparagus-soup)
+- [Hearty Endive Lentil Parmesan Soup](sides#hearty-endive-lentil-parmesan-soup)
 
 ##[Desserts](dessert)
 - [Homemade Pocky](dessert#pocky)

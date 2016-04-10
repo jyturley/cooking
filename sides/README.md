@@ -1,11 +1,11 @@
 # Side Dishes
-- [Homemade Lox](homemade-lox)
-- [Asazuke](asazuke)
-- [Dashimaki Tamago](dashimaki-tamago)
-- [Agedashi Tofu](agedashi-tofu)
-- [Lotus Root Stir-fry](lotus-root-stir-fry)
-- [Miso Glazed Eggplant](miso-glazed-eggplant)
-- [Hearty Endive Lentil Parmesan Soup](hearty-endive-lentil-parmesan-soup)
+- [Homemade Lox](#homemade-lox)
+- [Asazuke](#asazuke)
+- [Dashimaki Tamago](#dashimaki-tamago)
+- [Agedashi Tofu](#agedashi-tofu)
+- [Lotus Root Stir-fry](#lotus-root-stir-fry)
+- [Miso Glazed Eggplant](#miso-glazed-eggplant)
+- [Hearty Endive Lentil Parmesan Soup](#hearty-endive-lentil-parmesan-soup)
 
 ## Homemade Lox
 ### Ingredients
