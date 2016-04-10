@@ -230,3 +230,28 @@ Serves: 4
 
 ### Resources
 - [Epicurious](http://www.epicurious.com/recipes/food/views/cream-of-asparagus-soup-creme-dasperges-104746)
+
+## Hearty Endive Lentil Parmesian Soup
+### Ingredients
+```
+Serves: 4
+1/4cup  Olive oil, extra virgin
+1       Onion, medium, chopped
+1       Carrot, large, chopped
+2stalks Celery, chopped
+3cloves Garlic, minced
+2tbsp   Rosemary, chopped
+2       Endives, roughly chopped
+2tbsp   Tomato paste
+1.5qt   Chicken stock, low sodium
+2       Bay leaves, fresh
+4in     Parmesan rind
+2tsp    Soy sauce
+1tsp    Fish Sauce
+        Black pepper, freshly ground
+1/3cup  Lentils
+1/4cup  Parsley leaves, chopped
+        Parmesan as garnish, grated
+```
+### Directions
+### Resources
