@@ -5,8 +5,7 @@
 - [Agedashi Tofu](agedashi-tofu)
 - [Lotus Root Stir-fry](lotus-root-stir-fry)
 - [Miso Glazed Eggplant](miso-glazed-eggplant)
-
-nameserver
+- [Hearty Endive Lentil Parmesan Soup](hearty-endive-lentil-parmesan-soup)
 
 ## Homemade Lox
 ### Ingredients
@@ -231,7 +230,7 @@ Serves: 4
 ### Resources
 - [Epicurious](http://www.epicurious.com/recipes/food/views/cream-of-asparagus-soup-creme-dasperges-104746)
 
-## Hearty Endive Lentil Parmesian Soup
+## Hearty Endive Lentil Parmesan Soup
 Perfect for a cold, rainy Sunday. Sometime you just want to feel healthy with a shitton of vegetables packed into a single dish.
 ### Ingredients
 ```
@@ -255,7 +254,7 @@ Serves: 4
 1/4cup  Parsley leaves, chopped
         Parmesan as garnish, grated
 ```
-When chopping up rosemary, it is very important to remove any unecessary parts of the herb. Some stems (if they are not as fresh) can be woody, making it very annoying to eat in a soup.
+- When chopping up rosemary, it is very important to remove any unecessary parts of the herb. Some stems (if they are not as fresh) can be woody, making it very annoying to eat in a soup.
 
 ### Directions
 1. Heat olive oil in a large saucepan over medium-high heat until shimmering. Add onions, carrots, and celery. Cook, stirring occasionally, until softened but not browned, about 4 minutes. Add rosemary and garlic and cook, stirring, until fragrant, about 1 minute. Add chopped endive and cook, stirring occasionally, until wilted, about 5 minutes. Add tomato paste and continue to cook, stirring frequently, until liquid has evaporated and mixture begins to sizzle, about 5 minutes longer. 
@@ -264,11 +263,14 @@ When chopping up rosemary, it is very important to remove any unecessary parts o
 4. Season to taste with salt and pepper. Stir in parsley. Serve, drizzling with olive oil and sprinkling with Parmesan.
 
 ### Notes
-Version 1.0
+Version 2.0
+- Added Italian meatballs
+- Decreased chicken stock to 1.5qts
+
+Version 2.0
 - Switched out escarole with endieves.
 - Switched out barley with lentils
 - Increased amount of onions in mirepoix
-- Added Italian meatballs
 
 ### Resources
 - [Serious Eats](http://www.seriouseats.com/recipes/2013/11/hearty-escarole-barley-parmesan-soup-recipe.html)
