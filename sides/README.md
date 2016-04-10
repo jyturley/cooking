@@ -255,11 +255,12 @@ Serves: 4
         Parmesan as garnish, grated
 ```
 - When chopping up rosemary, it is very important to remove any unecessary parts of the herb. Some stems (if they are not as fresh) can be woody, making it very annoying to eat in a soup.
+- It's important to boil lentils by itself first. The salt reacts with the lentils during the boiling process, resulting in a mushy texture.
 
 ### Directions
 1. Heat olive oil in a large saucepan over medium-high heat until shimmering. Add onions, carrots, and celery. Cook, stirring occasionally, until softened but not browned, about 4 minutes. Add rosemary and garlic and cook, stirring, until fragrant, about 1 minute. Add chopped endive and cook, stirring occasionally, until wilted, about 5 minutes. Add tomato paste and continue to cook, stirring frequently, until liquid has evaporated and mixture begins to sizzle, about 5 minutes longer. 
-2. Stir in broth. Add bay leaves, Parmesan rind, soy sauce, and fish sauce (if using), and bring to a boil. Reduce to a bare simmer and cook, stirring occasionally, until barley is softened and soup has absorbed flavor from parmesan and bay leaves, about 25 minutes. Season to taste with salt and pepper. 
-2. Stir in broth. Add bay leaves, Parmesan rind, soy sauce, and fish sauce (if using), and bring to a boil. Add meatballs, then reduce to a bare simmer and cook, stirring occasionally, until barley is softened and soup has absorbed flavor from parmesan and bay leaves, about 25 minutes. Season to taste with salt and pepper. 
+2. Stir in broth. Add bay leaves, Parmesan rind, soy sauce, and fish sauce (if using), and bring to a boil. Reduce to a bare simmer and cook, stirring occasionally, until barley is softened and soup has absorbed flavor from parmesan and bay leaves, about 25 minutes. 
+3. Meanwhile, add lentils to another pot of boiling water and cook for 10min. Drain, and then put into the soup. 
 4. Season to taste with salt and pepper. Remove bay leaves. Stir in parsley. Serve, drizzling with olive oil and sprinkling with Parmesan.
 
 ### Notes
@@ -268,10 +269,10 @@ Version 2.0
 - Decreased chicken stock to 1.5qts
 
 Version 1.0
-- Switched out escarole with endieves.
-- Switched out barley with lentils
-- Increased amount of onions in mirepoix
+- Switched out escarole with endives.
+- Switched out barley with lentils.
+- Increased amount of onions in mirepoix.
 
 ### Resources
 - [Serious Eats](http://www.seriouseats.com/recipes/2013/11/hearty-escarole-barley-parmesan-soup-recipe.html)
-
+- [Akis Kitchen](https://www.youtube.com/watch?v=LOqxB65AqyI) on lentils.
