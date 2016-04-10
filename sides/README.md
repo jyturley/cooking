@@ -255,11 +255,20 @@ Serves: 4
 1/4cup  Parsley leaves, chopped
         Parmesan as garnish, grated
 ```
+When chopping up rosemary, it is very important to remove any unecessary parts of the herb. Some stems (if they are not as fresh) can be woody, making it very annoying to eat in a soup.
+
 ### Directions
 1. Heat olive oil in a large saucepan over medium-high heat until shimmering. Add onions, carrots, and celery. Cook, stirring occasionally, until softened but not browned, about 4 minutes. Add rosemary and garlic and cook, stirring, until fragrant, about 1 minute. Add chopped endive and cook, stirring occasionally, until wilted, about 5 minutes. Add tomato paste and continue to cook, stirring frequently, until liquid has evaporated and mixture begins to sizzle, about 5 minutes longer. 
 2. Stir in broth. Add bay leaves, Parmesan rind, soy sauce, and fish sauce (if using), and bring to a boil. Reduce to a bare simmer and cook, stirring occasionally, until barley is softened and soup has absorbed flavor from parmesan and bay leaves, about 25 minutes. Season to taste with salt and pepper. 
 2. Stir in broth. Add bay leaves, Parmesan rind, soy sauce, and fish sauce (if using), and bring to a boil. Add meatballs, then reduce to a bare simmer and cook, stirring occasionally, until barley is softened and soup has absorbed flavor from parmesan and bay leaves, about 25 minutes. Season to taste with salt and pepper. 
 4. Season to taste with salt and pepper. Stir in parsley. Serve, drizzling with olive oil and sprinkling with Parmesan.
+
+### Notes
+Version 1.0
+- Switched out escarole with endieves.
+- Switched out barley with lentils
+- Increased amount of onions in mirepoix
+- Added Italian meatballs
 
 ### Resources
 - [Serious Eats](http://www.seriouseats.com/recipes/2013/11/hearty-escarole-barley-parmesan-soup-recipe.html)
