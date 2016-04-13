@@ -2,13 +2,15 @@
 
 - [French Onion Soup](#french-onion-soup)
 - [Sweet & Sour Grilled Sea Bass](#sweet--sour-grilled-sea-bass)
-- [Gordan Ramsay's Slow Roasted Pork Belly](#gordon-ramsays-slow-roasted-pork-belly)
+- [Gordon Ramsay's Slow Roasted Pork Belly](#gordon-ramsays-slow-roasted-pork-belly)
 - [Fish Fragrant Eggplant](#fish-fragrant-eggplant)
 - [Braised Eggplant with Pork in Sichuan Sauce](#braised-eggplant-with-pork-in-sichuan-sauce)
-- [The Ultimate Chili](#the-ultimate-chili)
+- [The Best Goddamned Chili Ever](#the-ultimate-chili)
 - [Mohito Chicken](#mohito-chicken)
 - [Chicken Karahi](#chicken-karahi)
-- [Thai Eggplant Curry](#thai-eggplant=curry)
+- [Thai Eggplant Curry](#thai-eggplant-curry)
+- [Braised Eggplant with Garlic and Basil](#braised-eggplant-with-garlic-and-basil)
+- [Mongolian Beef](#mongolian-beef)
 - [Basic Fried Rice](#basic-fried-rice)
 
 ## French Onion Soup
