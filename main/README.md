@@ -429,7 +429,7 @@ Serves: 2-3
 ## Basic Fried Rice
 Yes. Fried rice is considered the easiest dishes to make, and it's the right of passage for anyone learning asian cooking. The versatility and simplicity make is a super delicious, popular dish that can be made with very little time. But are you saying your recipe can't be improved?
 
-I didn't know I had been making it wrong all this time. You actually taste the rice, not the soy sauce that's been drenching the medium!
+I didn't know I had been making it incorrectly all this time. You actually taste the rice, not the soy sauce that's been drenching the medium!
 
 ### Ingredients
 
