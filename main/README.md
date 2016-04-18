@@ -138,9 +138,9 @@ Pinch   Cardimom Seeds
 This is essentially my favorite Chinese dish. A common peasant meal in the Sicchuan province, it uses basic ingredients to create a luxuriant dish with warm colors and rich complex flavors.
 
 The key to do this dish correctly is to prepare the eggplants in a way that the bitterness is taken away while the moisture is maintained. As always, the food lab goes in to super detail about this:
-> Whatever eggplan you use, one thing's for sure: Simply cutting them and stir-frying them does *not* work. The eggplants absorb all the oil, leaving dry sponts on the wok, which in turn allows the eggplant to stick and burn. Raw, untreated eggplants also take a long time to cook through, axacerbating the burning problem. Why is that?
+> Whatever eggplant you use, one thing's for sure: Simply cutting them and stir-frying them does *not* work. The eggplants absorb all the oil, leaving dry sponts on the wok, which in turn allows the eggplant to stick and burn. Raw, untreated eggplants also take a long time to cook through, axacerbating the burning problem. Why is that?
 >
-> It's because eggplants contain so much excess air, distributed withing a spongy cell network. Air acts as an insuator, whihc means that heat travels through and eggplant very slowly.
+> It's because eggplants contain so much excess air, distributed withing a spongy cell network. Air acts as an insuator, which means that heat travels through the eggplant very slowly.
 
 ### Ingredients
 ```
