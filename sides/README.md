@@ -5,6 +5,7 @@
 - [Agedashi Tofu](#agedashi-tofu)
 - [Lotus Root Stir-fry](#lotus-root-stir-fry)
 - [Miso Glazed Eggplant](#miso-glazed-eggplant)
+- [Asparagus Soup](#asparagus-soup)
 - [Hearty Endive Lentil Parmesan Soup](#hearty-endive-lentil-parmesan-soup)
 
 ## Homemade Lox
