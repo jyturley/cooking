@@ -14,6 +14,7 @@ A personal repo for recipes that I've tweaked over time.
 - [Braised Eggplant with Garlic and Basil](main#braised-eggplant-with-garlic-and-basil)
 - [Mongolian Beef](main#mongolian-beef)
 - [Basic Fried Rice](main#basic-fried-rice)
+- [Beef and Cheese Skillet Cassarole](main#beef-and-cheese-skillet-cassarole)
 
 ##[Drinks](drinks)
 - [Nocino Italian Liquer](drinks#nocino)

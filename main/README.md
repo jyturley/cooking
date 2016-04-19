@@ -12,6 +12,7 @@
 - [Braised Eggplant with Garlic and Basil](#braised-eggplant-with-garlic-and-basil)
 - [Mongolian Beef](#mongolian-beef)
 - [Basic Fried Rice](#basic-fried-rice)
+- [Beef and Cheese Skillet Cassarole](#beef-and-cheese-skillet-cassarole)
 
 ## French Onion Soup
 ### Ingredients
@@ -437,3 +438,48 @@ I didn't know I had been making it incorrectly all this time. You actually taste
 
 ### Resources
 - [Serious Eats](http://www.seriouseats.com/2016/02/the-food-lab-how-to-make-best-fried-rice-chinese-thai-wok-technique-right-type-of-rice.html)
+
+## Beef and Cheese Skillet Cassarole
+
+### Ingredients
+```
+Serves: 6-10
+
+1lb     Elbow macaroni
+2       Whole tomatoes peeled, 28oz can
+2tbsp   Butter, unsalted
+1       Onion, large
+1       Green bellpepper
+4cloves Garlic
+1tbsp   Oregano, dried
+1tsp    Crushed red papper flakes
+1/4cup  Parsley leaves, finely minced
+1lb     Gronud beef, 80/20
+2.5tbsp Worcestershire sauce
+1cup    Chicken stock
+        Fresh ground pepper
+8oz     Mozzarella cheese, low moisture whole milk, cut into 1/2 inch cubes
+3oz     Parmigiano Reggiano, grated
+```
+
+- 1cup of stock can be replaced with `Better than Bouillion` or the chicken paste from Trader Joes.
+- Cheaper dried pasta leads to soggy, unstructured pasta. Since this recipe calls for imprecise cooking of pasta, go with the better pasta. It also tastes wayyy better.
+- Why fresh parsley, but dried oregano?
+> Heartier herbs with more succulent leaves like oregano or rosemary retain their flavors far better when dried than tender leafy herbs like parsley. A good general rule of thumb is that if the leaves are fuzzy or pointy, they'll still be tasty when dried.
+
+### Instructions
+1. Boil water. Generously add salt to it, and cook the macarani in the boiled water for half the listed amount of time.
+2. Blend the canned tomatoes and set aside.
+3. Heat oil and butter in a 5 quart straight-sided sauté pan or Dutch oven over medium-high heat, swirling, until better is mostly melted. Add onions and peppers, reduce heat to medium and cook, stirring frequently, until softened but not browned, about 7 minutes. Add garlic, oregano, red pepper flakes, and half of parsley, and cook, stirring, until fragrant, about 1 minute.
+4. Clear a space in the center of the pan and add meat. Increase heat to high. Cook, breaking it up first with a wooden spoon, then with a potato masher, until broken into small pieces. Continue cooking until no longer pink, about 4 minutes. Add pureed tomatoes and bring to a simmer.
+5. Drain noodles in a large colander set in the sink. Add to pot with beef. Add Worcestershire sauce and chicken stock and stir, folding noodles through the sauce until noodles and sauce are well-integrated. Cover and cook at a hard simmer until noodles are mostly cooked, about half of cook-time indicated on box.
+6. Remove lid and stir to combine. Season to taste with salt and pepper. Add half of cubed mozzarella and stir to incorporate rapidly (do not overstir or the mixture will stretch and stick to your spoon). Spread remaining mozzarella over surface of dish. Sprinkle half of Parmesan over dish. Cover and cook over the lowest possible heat for 3 minutes. Remove from heat and let rest with cover on for 5 minutes.
+7. Uncover, sprinkle with remaining Parmesan and herbs and serve immediately, passing extra Worcestershire sauce at the table.
+
+### Notes
+Version 2.0
+- Reduced the amount of mozzarella from 12oz to 8oz. Too cheesy.
+- Cook the pasta 2 minutes less before adding to sauce.
+
+### Resources
+- [Serious Eats](http://www.seriouseats.com/recipes/2014/09/american-chop-suey-johnny-marzetti-beefaroni-hamburger-helper-goulash-italian-american-recipe.html)
