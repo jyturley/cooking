@@ -357,7 +357,7 @@ Serves: 2-3people
 1/2cup  Thai Basil
 1-2tbsp Lime juice
         Oil
-	Salt
+	      Salt
 ```
 
 ### Directions
