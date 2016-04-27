@@ -329,6 +329,7 @@ Spices:
 Garnish (Optional):
 1/4cup  Cilantro, chopped
 ```
+- Roma tomatoes are generally looked-down-upon due to their tastelessness, but it goes well with the recipe here. We want tomatoes that retain it's texture even after a 10minute simmer. Roma tomatoes thick skin and low juicy-ness help in making this dish less "stew"-like.
 
 ### Instructions
 1. Heat oil in a large bowl to at least 212ºF, add chicken until 80% ready. Internal temperature should be 145ºF
