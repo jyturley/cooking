@@ -34,6 +34,13 @@
   * I tend to like mine less salty, so I stop at the 12 hour mark. 
 6. Once it's cured, remove the excess salt and sugar, and now you're done!
 
+### Notes
+Version 2.0
+- Add chopped shallots for a milder, sweeter element
+
+### Resources
+- [Byron Talbott](http://www.byrontalbott.com/homemade-lox/)
+
 ## Asazuke
 ### Ingredients
 ```
