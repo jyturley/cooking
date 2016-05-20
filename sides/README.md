@@ -17,7 +17,7 @@
 3tbsp  Chopped fennel fronds
 1tbsp  Shallots, Minced (Optional)
 1/2cup Salt
-1/2    Sugar
+1/2cup Sugar
        Saran Wrap
 ```
 
