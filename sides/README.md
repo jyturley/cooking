@@ -15,6 +15,7 @@
 3tbsp  Chopped terragon
 3tbsp  Chopped dill
 3tbsp  Chopped fennel fronds
+1tbsp  Shallots, Minced (Optional)
 1/2cup Salt
 1/2    Sugar
        Saran Wrap
@@ -36,6 +37,9 @@
 6. Once it's cured, remove the excess salt and sugar, and now you're done!
 
 ### Notes
+Version 3.0
+- Reduce amount of shallots to 1tbsp optional from 2tbsp. The lox at 13hours was sweeter, but would affect the dill-terragon aroma in a not-so-cool way.
+
 Version 2.0
 - Add chopped shallots for a milder, sweeter element
 
