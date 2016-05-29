@@ -1,6 +1,7 @@
 # Drinks
 - [Nocino](#nocino)
 - [Shirley Temple](#shirley-temple)
+- [Watermelon Sweet Tea](#watermelon-sweet-tea)
 
 ## Nocino
 ### Ingredients
@@ -53,5 +54,24 @@ Homemade, using grenadine from scratch. It's a little more effort, but it tastes
 4. Add 8oz of club soda, and *gently* stir. (Don't user the boston shaker here).
 5. Strain shaker with glass filled with ice and enjoy!
 
+## Watermelon Sweet Tea
+### Ingredients
+```
+Serves: 4
 
+1      Watermelon, small to medium.
+8cups  Water (2 cups per person)
+3bags  Lipton Ice Tea
+1/2cup Sugar
+```
+- According to the internet, anything other than Lipton for southern sweet tea is a travestea.
+- You want a watermelon large enough to provide ~6cups of watermelong pureed.
 
+### Directions
+1. Cut a small slice of the watermelon into the shape of the garnish you would like. Cut enough for how drinks you are serving, and set aside in the freezer.
+2. Heat water, and make tea. Add sugar.
+3. Cut up the rest of the watermelon, and blend.
+4. Strain the watermelon puree a little bit to get rid of the black seeds. Combine with tea, add garnsish, and serve with ice.
+
+### Resources
+- [Deep South Dish](http://www.deepsouthdish.com/2012/06/watermelon-sweet-iced-tea.html) - A recipe that 

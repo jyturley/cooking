@@ -19,6 +19,7 @@ A personal repo for recipes that I've tweaked over time.
 ##[Drinks](drinks)
 - [Nocino Italian Liquer](drinks#nocino)
 - [Homemade Shirley Temple](drinks#shirley-temple)
+- [Watermelon Sweet Tea](drinks#watermelon-sweet-tea)
 
 ##[Sides](sides)
 - [Homemade Lox](sides#homemade-lox)
